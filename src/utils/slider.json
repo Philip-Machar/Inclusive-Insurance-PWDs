@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Britam Insurance",
+    "price": "47,043",
+    "detail": "Offers inclusive health and life insurance for individuals with disabilities.",
+    "image": "./insurance_img1.jpg"
+  },
+  {
+    "name": "Jubilee Insurance",
+    "price": "66,353",
+    "detail": "Provides comprehensive policies focusing on accessibility for people with disabilities.",
+    "image": "./image2.jpg"
+  },
+  {
+    "name": "UAP Old Mutual",
+    "price": "35,853",
+    "detail": "Offers health and life insurance tailored for individuals with disabilities.",
+    "image": "./image5.jpg"
+  },
+  {
+    "name": "NHIF",
+    "price": "47,043",
+    "detail": "Government scheme providing essential healthcare coverage for all Kenyans, including disabled.",
+    "image": "./image4.jpg"
+  },
+  {
+    "name": "Microensure",
+    "price": "66,353",
+    "detail": "Affordable insurance solutions targeting underserved populations, including those with disabilities.",
+    "image": "./image6.jpg"
+  },
+  {
+    "name": "Madison Insurance",
+    "price": "35,853",
+    "detail": "Provides diverse insurance products with provisions for individuals with disabilities.",
+    "image": "./image7.jpg"
+  }
+]
