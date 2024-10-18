@@ -1,11 +1,9 @@
 import "./App.css";
-import Companies from "./components/Companies/Companies";
 import Contact from "./components/Contact/Contact";
-import Footer from "./components/Footer/Footer";
 import GetStarted from "./components/GetStarted/GetStarted";
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
-import Residencies from "./components/Residencies/Residencies";
+import InsuranceOptions from "./components/InsuranceOptions/InsuranceOptions";
 import Value from "./components/Value/Value";
 
 function App() {
@@ -16,7 +14,7 @@ function App() {
         <Header />
         <Hero />
       </div>
-      <Residencies/>
+      <InsuranceOptions/>
       <Value/>
       <Contact/>
       <GetStarted/>

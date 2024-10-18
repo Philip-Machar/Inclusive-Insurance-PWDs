@@ -3,9 +3,9 @@ import data from "../../utils/slider.json";
 import { Swiper, SwiperSlide, useSwiper } from "swiper/react";
 // Import Swiper styles
 import "swiper/css";
-import "./Residencies.css";
+import "./InsuranceOptions.css";
 import { sliderSettings } from "../../utils/common";
-const Residencies = () => {
+const InsuranceOptions = () => {
   return (
     <div id="insurance" className="r-wrapper">
       <div className="paddings innerWidth r-container">
@@ -31,7 +31,7 @@ const Residencies = () => {
   );
 };
 
-export default Residencies;
+export default InsuranceOptions;
 
 const SlideNextButton = () => {
   const swiper = useSwiper();
